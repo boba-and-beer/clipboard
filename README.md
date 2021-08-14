@@ -1,13 +1,23 @@
 # terminal-to-clipboard
 
-Copy Paste from the Linux terminal. 
+Copy Paste Program directly from a file.
 
-Built on top of some pretty cool Python applications.
+Built on top of some useful Python applications.
 
 - Typer
 - Pyperclip
 
 Not uploaded to Pypi because intended to be used as a simple terminal application.
+
+## How To Use
+
+Using this application is really hard, make sure this is used appropriately.
+
+```
+clipboard FILENAME
+```
+
+It has now been added to yoru clipboard.
 
 ## Installation
 
