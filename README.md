@@ -1,4 +1,4 @@
-# terminal-to-clipboard
+# Clipboard program
 
 Copy Paste Program directly from a file.
 
