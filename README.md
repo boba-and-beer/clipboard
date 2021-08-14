@@ -11,13 +11,13 @@ Not uploaded to Pypi because intended to be used as a simple terminal applicatio
 
 ## How To Use
 
-Using this application is really hard, make sure this is used appropriately.
+Using this application is really hard, make sure you do not make any typos!
 
 ```
-clipboard FILENAME
+clipboard <FILENAME>
 ```
 
-It has now been added to yoru clipboard.
+It has now been added to your clipboard.
 
 ## Installation
 
